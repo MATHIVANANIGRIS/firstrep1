@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 it is git and github
+=======
+it is a git and github
+this is second time write
+>>>>>>> branch2
